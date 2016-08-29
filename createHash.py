@@ -1,8 +1,5 @@
 import random
 
-
-hashes['#' , '-']
-
 randomSet = ['#'] * 31
 
 count = 0
